@@ -8,4 +8,4 @@
 
 
 Code
-[1]: [https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb)https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb] "The best search engine"
+[1]: https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb)https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb
