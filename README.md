@@ -1,11 +1,6 @@
-# Projects
-Здесь находятся мини-проекты
+# Анализ данных "выжившие на титанике"
 
 ----------------------------
-* Выжившие на титанике [Нажимай][1].
+* Выжившие на титанике
+- https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb)https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb
 ----------------------------
-
-
-
-Code
-[1]: https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb)https://github.com/WillAgeG/Projects/blob/main/titanic.ipynb
